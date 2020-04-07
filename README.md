@@ -4,4 +4,4 @@ This is a community driven initiative to help the Emergency Medical Dispatcher (
 
 The demo can be found at [here](https://www.covidoptimize.org) and it's repo can be found [here](https://github.com/ahmadshahrour951/syringe)
 
-![Architecture Overview](images\general_arch.png)
+![Overall Architecture](images/general_arch.png)
